@@ -22,7 +22,5 @@ Detecting and tracking the vehicles in \["bicycle","bus","car","motorbike","truc
 ## Demo
 ![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo1.gif)
 
-![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo2.gif)
 
-![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo3.gif)
 
