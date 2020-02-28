@@ -1,4 +1,4 @@
-# Multi-type_vehicles_flow_statistics
+# Multi-type_vehicles_detection at intersection
 According to YOLOv3 and SORT algorithms, counting multi-type vehicles. Implemented by Pytorch.  
 Detecting and tracking the vehicles in \["bicycle","bus","car","motorbike","truck"].
 
@@ -20,7 +20,7 @@ Detecting and tracking the vehicles in \["bicycle","bus","car","motorbike","truc
 4. After detecting and tracking, the result video and file are saved under `results` directory, the line of `results.txt` with format \[videoName,id,objectName] for each vehicle.
 
 ## Demo
-![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo1.gif)
+
 
 
 
