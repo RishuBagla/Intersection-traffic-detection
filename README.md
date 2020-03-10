@@ -4,7 +4,7 @@ Detecting and tracking the vehicles in \["bicycle","bus","car","motorbike","truc
 
 The purpose of this code is to monitor the traffic at inersetion and its turning movement. It will automatically identify enty and exit intersection of vechile with its class and time period required from entry to exit. 
 
-Yolo3 is used to for object detecion to identify the vechile in 5 class - bicycle, bus, car, motorbike, truck. To identify the tuning movement of vechile coodinate of centre of boundin box is printed with vechile identification no and class of vechile in every frame. Data cleaning will be done in python to increase the accuracy of model. After cleaning the data minimum distance of start and end frame is extracted out and minimum distance between line and point is calculated from the intersection defined boundary condition. Assign the vechile stating and end intersection according to result
+Yolo3 is used to for object detecion to identify the vechile in 5 class - bicycle, bus, car, motorbike, truck. To identify the tuning movement of vechile coodinate of centre of boundin box of every vechile is printed with vechile identification no and class of vechile in every frame. Data cleaning will be done in python to increase the accuracy of model. After cleaning the data minimum distance of start and end frame of every vechile is extracted. Minimum distance between line and point is calculated from the intersection defined boundary condition to identify the starting and end point of vechile. Assign the vechile stating and end intersection according to result
 
 ## Reference
 - yolov3-darknet  https://github.com/pjreddie/darknet
